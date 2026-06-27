@@ -6,8 +6,8 @@ import { useAuth } from "../../context/AuthContext";
 import api from "../../services/api";
 import toast from "react-hot-toast";
 
-export default function AuthModal({ onClose }) {
-  const [mode, setMode] = useState("login"); // "login" | "register"
+export default function AuthModal({ onClose, defaultMode = "login" }) {
+  const [mode, setMode] = useState(defaultMode); // "login" | "register"
   const [loading, setLoading] = useState(false);
   const [form, setForm] = useState({
     full_name: "", email: "", password: "", confirm_password: "", programme: "",
