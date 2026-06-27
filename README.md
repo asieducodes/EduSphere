@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a3cc7&height=200&section=header&text=EduSphere&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Campus%20Study%20Group%20%26%20Resource%20Finder%20%E2%80%94%20KNUST&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=1a3cc7&amp;height=200&amp;section=header&amp;text=EduSphere&amp;fontSize=72&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Campus%20Study%20Group%20and%20Resource%20Finder%20%E2%80%94%20KNUST&amp;descAlignY=58&amp;descSize=18" width="100%"/>
 
 [![React](https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
@@ -14,7 +14,6 @@
 [Features](#-features) · [Tech Stack](#-tech-stack) · [Getting Started](#-getting-started) · [Project Structure](#-project-structure) · [API Docs](#-api-documentation) · [Team](#-team)
 
 </div>
-
 ---
 
 ## ✨ Features
