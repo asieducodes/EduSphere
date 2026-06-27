@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    @apply bg-gray-50 text-gray-900 font-sans;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-primary-600 hover:bg-primary-700 text-white font-semibold py-3 px-6 rounded-xl transition-colors duration-200 w-full;
+  }
+  .btn-gold {
+    @apply bg-gold-500 hover:bg-gold-600 text-gray-900 font-bold py-3 px-6 rounded-xl transition-colors duration-200 w-full;
+  }
+  .input-field {
+    @apply w-full border border-gray-200 rounded-xl px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-primary-500 bg-white;
+  }
+  .card {
+    @apply bg-white rounded-2xl border border-gray-100 shadow-sm p-4;
+  }
+}
