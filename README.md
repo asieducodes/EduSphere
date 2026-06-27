@@ -222,11 +222,13 @@ Once the backend is running, full interactive API docs are available at:
 | Name | Role | GitHub |
 |---|---|---|
 | Asiedu Seth Osei | Backend Lead / Software Architect | [@asieducodes](https://github.com/asieducodes) |
-| Frimpong | Backend Developer | — |
-| Agyemang | Frontend Developer | — |
+| Frimpong Solomon Junior | Backend Developer | — |
+| Agyemang Casper Adu-Gyamfi| Frontend Developer | — |
 | Ackom Arnold | Frontend Developer | — |
-| Daniel | Documentation | — |
-| Joshua | Documentation | — |
+| Daniel Kuma Gyebi | Documentation | — |
+| Joshua Adu Sarfo| Documentation | — |
+|Jessica Oforiwaa Anim | Database | — |
+|Amuzu Emmanuel|Database | — |
 
 > Built as a group project for **KNUST — Department of Computer Engineering**
 
